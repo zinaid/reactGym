@@ -4,8 +4,8 @@ Created React.js app that uses Rapid API endpoints for Exercises and YouTube. In
 
 Home page and Exercise Detail page are presented on the following figures.
 
-<img src="gym1.png" alg="gym1" style="margin-top: 10px" />
+<img src="gym1.png" alg="gym1" style="margin-top: 10px" />   
 
-<img src="gym1.png" alg="gym1" style="margin-top: 10px" />
+<img src="gym2.png" alg="gym2" style="margin-top: 10px" />
 
 Tutorial for this project was provided by JavaScript Mastery.
